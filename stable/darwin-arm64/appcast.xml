@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>HoloDesk</title><item><title>HoloDesk 0.1.0</title><pubDate>Thu, 22 Oct 2026 03:43:22 +0000</pubDate><sparkle:version>24</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description># HoloDesk for Mac
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>HoloDesk</title><item><title>HoloDesk 0.1.0</title><pubDate>Mon, 26 Oct 2026 05:21:34 +0000</pubDate><sparkle:version>36</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>Improves workspace close and restart reliability, card controls, and menu labeling.
+</description><enclosure url="https://github.com/alxrod/holodesk-releases/releases/download/release-0.1.0-36/HoloDesk-0.1.0-arm64.dmg" length="181891354" type="application/octet-stream" sparkle:edSignature="ROUdsY4Qh9L9cSy+Zk9GhC0K9KIBJvUQgqatqs0zEVv127XEObImOINO/ljW4NZqQ6uhrT/pcbgsrHuxBo9xAg=="></enclosure></item><item><title>HoloDesk 0.1.0</title><pubDate>Thu, 22 Oct 2026 03:43:22 +0000</pubDate><sparkle:version>24</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description># HoloDesk for Mac
 
 The initial public release of HoloDesk for Apple Silicon Macs.
 
@@ -10,6 +11,6 @@ The initial public release of HoloDesk for Apple Silicon Macs.
 
 Open the DMG, drag HoloDesk to Applications, then open HoloDesk. Existing installations without automatic updates need this manual installation once; later releases can update through the app.
 </description><enclosure url="https://github.com/alxrod/holodesk-releases/releases/download/release-0.1.0-24/HoloDesk-0.1.0-arm64.dmg" length="183358691" type="application/octet-stream" sparkle:edSignature="IRhFlwdjYieNR+fP3guMqIk44VggE51T0VkgNCX85avDb69CqDmC2ZxFIBcL0Z19eCHVNkZ6eCozbTHIHcefCA=="></enclosure></item></channel></rss><!-- sparkle-signatures:
-edSignature: oeOYAwnl6l0pfRNkwmDRIXi3SBM8QPNan5NK/ql0OndEDvupop5hlPQEFd1P+kgnbVtGQFW8QAfY4XDMLuI9Ag==
-length: 1490
+edSignature: Qtoe+JiduoZ/FxxGCjukspLDoLI7tXnoCHwPvmfJmV/QA/7PlP3yjGh+qkbbvh4Z2aWEjvKwyAm1TqFr66RmCA==
+length: 2152
 -->
