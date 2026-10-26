@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>HoloDesk</title><item><title>HoloDesk 0.1.0</title><pubDate>Mon, 26 Oct 2026 02:03:01 +0000</pubDate><sparkle:version>34</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>Improves reliability when closing or restarting a workspace, including during an update.
+</description><enclosure url="https://github.com/alxrod/holodesk-releases/releases/download/release-0.1.0-34/HoloDesk-0.1.0-arm64.dmg" length="183516052" type="application/octet-stream" sparkle:edSignature="Mqj8oVuqQRaYatHmEsS21kSDXHJJK4ud0U0FwlveySSw7ZQPvMH/mQDyZYz2EyPo149HW69Wh/MCpxRiu+SgCg=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: Vf3rng5P+MMM3EBny61v5zkAIiwSjgP9HZKWKG3pkMTj1op6tB3t2gmBFRV1Zwt70Cr9xtVziTzs9mZuA7P/Bg==
+length: 1093
+-->
