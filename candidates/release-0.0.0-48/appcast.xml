@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>HoloDesk</title><item><title>HoloDesk 0.0.0</title><pubDate>Thu, 29 Oct 2026 04:56:45 +0000</pubDate><sparkle:version>48</sparkle:version><sparkle:shortVersionString>0.0.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>HoloDesk verification build
+
+This is a qualification-only build that tests the release pipeline running entirely over SSH, with the flaky native canvas tests made deterministic. It is not a stable release and is never offered as an update.
+</description><enclosure url="https://github.com/alxrod/holodesk-releases/releases/download/release-0.0.0-48/HoloDesk-0.0.0-arm64.dmg" length="153176762" type="application/octet-stream" sparkle:edSignature="4g/fIONUNI/34A/sdkLXvc7fFqB3w5CCky4EnYVzcU8aXpB9jUclQ9OvNQ5SkkD2+i7NAZRzVHG8EBHEVMneDQ=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: h+jv5YiSuIj8DJlX9dgkvhHRhkpxFJIX4nSPKkMzK4X57nz9br5JusU/7fG/HFmx/+nxCHvOPKmtjlweh8+4Dw==
+length: 1244
+-->
