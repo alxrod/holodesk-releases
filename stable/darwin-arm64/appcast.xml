@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>HoloDesk</title><item><title>HoloDesk 0.1.0</title><pubDate>Thu, 29 Oct 2026 17:33:58 +0000</pubDate><sparkle:version>54</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description># HoloDesk nightly update
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>HoloDesk</title><item><title>HoloDesk 0.1.0</title><pubDate>Fri, 30 Oct 2026 12:02:28 +0000</pubDate><sparkle:version>62</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description># HoloDesk nightly update
+
+Browser improvements and fixes from the current reviewed source.
+</description><enclosure url="https://github.com/alxrod/holodesk-releases/releases/download/release-0.1.0-62/HoloDesk-0.1.0-arm64.dmg" length="153088062" type="application/octet-stream" sparkle:edSignature="Cq+XM3UzqMp1GPtzYslyDvVRmBWDwGpTfz4rEJvJviXsNhen/K9gPQO4mhynFzBzxb2zYanOYZU1+/JgtLk2Ag=="></enclosure></item><item><title>HoloDesk 0.1.0</title><pubDate>Thu, 29 Oct 2026 17:33:58 +0000</pubDate><sparkle:version>54</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description># HoloDesk nightly update
 
 Browser improvements and fixes from the current reviewed source.
 </description><enclosure url="https://github.com/alxrod/holodesk-releases/releases/download/release-0.1.0-54/HoloDesk-0.1.0-arm64.dmg" length="153278585" type="application/octet-stream" sparkle:edSignature="p4O0teakwAOYRPoh1okgUnX5XT1q/ccyplIChf9YAHWnzAX8RK/FCd2s5L2g0H4KMVg+kMRQmbDPdcynSgmVBQ=="></enclosure></item><item><title>HoloDesk 0.1.0</title><pubDate>Thu, 29 Oct 2026 06:59:39 +0000</pubDate><sparkle:version>50</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description># HoloDesk nightly update
@@ -26,6 +29,6 @@ The initial public release of HoloDesk for Apple Silicon Macs.
 
 Open the DMG, drag HoloDesk to Applications, then open HoloDesk. Existing installations without automatic updates need this manual installation once; later releases can update through the app.
 </description><enclosure url="https://github.com/alxrod/holodesk-releases/releases/download/release-0.1.0-24/HoloDesk-0.1.0-arm64.dmg" length="183358691" type="application/octet-stream" sparkle:edSignature="IRhFlwdjYieNR+fP3guMqIk44VggE51T0VkgNCX85avDb69CqDmC2ZxFIBcL0Z19eCHVNkZ6eCozbTHIHcefCA=="></enclosure></item></channel></rss><!-- sparkle-signatures:
-edSignature: KJss3VWgDa7VkXcMtcBlLFCv52P2wM3gg5shoIqlOZoon1X1Ea23rRWulhHBgIfD/Q3hcgRIMZYmj2dnItLWBg==
-length: 5056
+edSignature: 8q9d6Hs86ZxrFXy3T0YF89JYaHcf2Ai9MxEcu8PhLUjQ4fU5D6x0wOTo8HgsCHJpqLnLH0tFhp0ide91zRqgCA==
+length: 5726
 -->
