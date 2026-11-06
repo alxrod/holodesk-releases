@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>HoloDesk</title><item><title>HoloDesk 0.1.0</title><pubDate>Fri, 06 Nov 2026 01:23:40 +0000</pubDate><sparkle:version>84</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>This update improves Canvas navigation and restores live pages when transitions end early.
+</description><enclosure url="https://github.com/alxrod/holodesk-releases/releases/download/release-0.1.0-84/HoloDesk-0.1.0-arm64.dmg" length="153415495" type="application/octet-stream" sparkle:edSignature="gixFDHtRvNxSAOHsjCINuzK/PaBN+EiUuMZN7RH7dxAThkXeXZ/N4eLoIcWrP3PQaepUejrBTLGT0Y0c+MBuAg=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: +vGzNyfMiUsVuH2P+/+9oRJOmzhERLsvTAfdduQRPSVdDkSKTuae7Y3JFYKyhAYoybqeCRHDQy+m24pIF7rdAQ==
+length: 1095
+-->
